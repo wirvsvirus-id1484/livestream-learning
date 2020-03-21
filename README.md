@@ -26,6 +26,6 @@ https://obsproject.com/
   
 5. OBS starten und einen Stream starten mit folgender config:
 
-  ![OBSBeispiel](Screenshot3.png?raw=true "OBS Beispiel")
+  ![OBSBeispiel](obs-setting-stream.png?raw=true "OBS Beispiel")
   
 6. Dann per Browser auf localhost:8080 
