@@ -22,9 +22,9 @@ https://obsproject.com/
 
 4. Im Projekt-Ordner: 
 
-  4.1 ins Verzeichnis /media-server wechseln und dann auf der Konsole ausführen: node index.js 
+      4.1 ins Verzeichnis /media-server wechseln und dann auf der Konsole ausführen: node index.js 
   
-  4.2 ins Verzeichnis /client/whiteboard/whiteboard wechseln und dort auf der Konsole ausführen: node server.js
+      4.2 ins Verzeichnis /client/whiteboard/whiteboard wechseln und dort auf der Konsole ausführen: node server.js
   
 5. OBS starten und einen Stream starten mit folgender config:
 
